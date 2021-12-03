@@ -5,3 +5,89 @@
     font-family: 'Roboto', sans-serif;
 }
 
+body {
+    background: rgb(2, 0, 36);
+    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(183, 183, 227, 1) 35%, rgba(150, 16, 214, 1) 63%, rgba(0, 212, 255, 1) 100%);
+    display:flex;
+    justify-content:center;
+    align-items: center;
+
+}
+
+.container{
+    width: 80%;
+    box-shadow: 0 0 1rem 0 rgba(0,0,0, 0.2);
+    border-radius:20;
+    background-color:white;
+    display:flex;
+    flex-direction:column;
+    padding:10px;
+}
+
+.row{
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.logo-ps5{
+    width: 50px;
+    margin: 30px 0 ;
+
+}
+
+nav{
+    width: 100%;
+    text-align: right;
+}
+
+li{
+    list-style: none;
+    display:inline-block;
+    margin-right: 30px;
+    
+}
+
+.navigation{
+    cursor: pointer;
+    text-decoration: none;
+    color: #000;
+    font-size:14px;
+}
+
+.navigation:hover{
+    color:#fb5283;
+}
+
+.box{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 100px 0;
+}
+
+.text{
+    margin-left: 50px;
+
+}
+
+h2{
+    font-size: 54px;
+}
+
+h3{
+    font-size:30px;
+    color: #707070;
+    font-weight:100;
+    margin: 20px 0;
+}
+
+.text p{
+    font-size:16px;
+    color:#b7b7b7;
+    font-weight:100px;
+}
+
+h4{
+    
+}
