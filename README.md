@@ -3,7 +3,7 @@
 </p>
 <h1 align="center"> Projeto Portfolio </h1>
 
-<h5 align="center"> Objetivo criar com o máximo de funcionalidades  </h5>
+<h5 align="center">  </h5>
 
 <p align="center"> 
   <img src="#" alt="img-site" height="282px" width="637" />
